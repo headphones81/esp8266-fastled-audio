@@ -63,7 +63,7 @@
 // Overall twinkle speed.
 // 0 (VERY slow) to 8 (VERY fast).
 // 4, 5, and 6 are recommended, default is 4.
-uint8_t twinkleSpeed = 4;
+uint8_t twinkleSpeed = 1;
 
 // Overall twinkle density.
 // 0 (NONE lit) to 8 (ALL lit at once).

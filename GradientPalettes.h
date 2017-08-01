@@ -465,6 +465,671 @@ DEFINE_GRADIENT_PALETTE( Blue_Cyan_Yellow_gp ) {
   191,  42,255, 45,
   255, 255,255,  0};
 
+// Gradient palette "bhw2_whooo_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/bhw/bhw2/tn/bhw2_whooo.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 52 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( bhw2_whooo_gp ) {
+    0,   7,128, 95,
+   30,   8,  9, 35,
+   51,  21, 24, 25,
+   66,  77, 55, 96,
+   84, 255,255,125,
+  101,  45, 39,  4,
+  122, 224, 45,144,
+  137,  82,  1, 34,
+  160,  39, 47, 35,
+  175, 155, 99, 91,
+  204,   4, 10, 21,
+  224,   5, 66, 68,
+  255,  75,166, 78};
+
+  // Gradient palette "vampirelips_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/pj/5/tn/vampirelips.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 76 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( vampirelips_gp ) {
+    0,   0,  0,  0,
+   17,  26, 10,  6,
+   48,  90,  1,  9,
+   76,  32,  1,  3,
+   86,   0,  0,  0,
+   96,  26, 10,  6,
+  104, 140,154,133,
+  107,  26, 10,  6,
+  114,  90,  1,  9,
+  119,   0,  0,  0,
+  130,  90,  1,  9,
+  137,  26, 10,  6,
+  142,  26, 10,  6,
+  145, 140,154,133,
+  150,   0,  0,  0,
+  170,  32,  1,  3,
+  206,  90,  1,  9,
+  226,  26, 10,  6,
+  255,   0,  0,  0};
+
+// Gradient palette "Spectral_11_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/cb/div/tn/Spectral_11.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 88 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( Spectral_11_gp ) {
+    0,  73,  1,  8,
+   23,  73,  1,  8,
+   32, 159, 11, 13,
+   46, 159, 11, 13,
+   56, 227, 39,  9,
+   69, 227, 39,  9,
+   79, 249,109, 22,
+   92, 249,109, 22,
+  102, 252,191, 55,
+  115, 252,191, 55,
+  125, 255,255,123,
+  139, 255,255,123,
+  149, 194,233, 69,
+  162, 194,233, 69,
+  172,  90,186, 84,
+  185,  90,186, 84,
+  195,  23,139, 85,
+  208,  23,139, 85,
+  218,   3, 63,120,
+  221,   3, 63,120,
+  231,  19, 19, 82,
+  255,  19, 19, 82};
+
+  // Gradient palette "grand_old_flag_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/pj/3/tn/grand-old-flag.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 128 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( grand_old_flag_gp ) {
+    0,   1,  2,105,
+   99, 199,  1,  7,
+  117, 255,255,255,
+  122, 199,  1,  7,
+  130, 255,255,255,
+  145, 199,  1,  7,
+  155, 255,255,255,
+  165, 199,  1,  7,
+  175, 255,255,255,
+  188, 199,  1,  7,
+  198, 255,255,255,
+  209, 199,  1,  7,
+  219, 255,255,255,
+  229, 199,  1,  7,
+  239, 255,255,255,
+  255, 199,  1,  7};
+
+// Gradient palette "Winter_Night_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/nd/atmospheric/tn/Winter_Night.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 36 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( Winter_Night_gp ) {
+    0,   1, 18, 18,
+   75,  21, 57, 59,
+  106,  77,122,128,
+  124, 150,182,184,
+  127, 255,255,255,
+  131, 150,182,184,
+  145,  77,122,128,
+  179,  21, 57, 59,
+  255,   1, 18, 18};
+
+  // Gradient palette "Yellow_Black_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/nd/strips/tn/Yellow_Black.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 120 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( Yellow_Black_gp ) {
+    0,   0,  0,  0,
+   12,   0,  0,  0,
+   25,   0,  0,  0,
+   25, 255,169,  0,
+   38, 255,169,  0,
+   51, 255,169,  0,
+   51,   0,  0,  0,
+   63,   0,  0,  0,
+   76,   0,  0,  0,
+   76, 255,169,  0,
+   89, 255,169,  0,
+  102, 255,169,  0,
+  102,   0,  0,  0,
+  114,   0,  0,  0,
+  127,   0,  0,  0,
+  127, 255,169,  0,
+  140, 255,169,  0,
+  153, 255,169,  0,
+  153,   0,  0,  0,
+  165,   0,  0,  0,
+  178,   0,  0,  0,
+  178, 255,169,  0,
+  191, 255,169,  0,
+  204, 255,169,  0,
+  204,   0,  0,  0,
+  216,   0,  0,  0,
+  229,   0,  0,  0,
+  229, 255,169,  0,
+  242, 255,169,  0,
+  255, 255,169,  0};
+
+// Gradient palette "Orange_White_Blue_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/nd/strips/tn/Orange_White_Blue.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 192 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( Orange_White_Blue_gp ) {
+    0, 255, 47,  0,
+   15, 255, 47,  0,
+   33, 255, 47,  0,
+   33,   0,  0, 52,
+   35,   0,  0, 52,
+   37,   0,  0, 52,
+   37, 255,255,255,
+   48, 255,255,255,
+   59, 255,255,255,
+   59,   0,  0, 52,
+   61,   0,  0, 52,
+   63,   0,  0, 52,
+   63, 255, 47,  0,
+   78, 255, 47,  0,
+   96, 255, 47,  0,
+   96,   0,  0, 52,
+   99,   0,  0, 52,
+  101,   0,  0, 52,
+  101, 255,255,255,
+  111, 255,255,255,
+  122, 255,255,255,
+  122,   0,  0, 52,
+  125,   0,  0, 52,
+  127,   0,  0, 52,
+  127, 255, 47,  0,
+  142, 255, 47,  0,
+  160, 255, 47,  0,
+  160,   0,  0, 52,
+  162,   0,  0, 52,
+  165,   0,  0, 52,
+  165, 255,255,255,
+  175, 255,255,255,
+  186, 255,255,255,
+  186,   0,  0, 52,
+  188,   0,  0, 52,
+  191,   0,  0, 52,
+  191, 255, 47,  0,
+  206, 255, 47,  0,
+  224, 255, 47,  0,
+  224,   0,  0, 52,
+  226,   0,  0, 52,
+  229,   0,  0, 52,
+  229, 255,255,255,
+  239, 255,255,255,
+  250, 255,255,255,
+  250,   0,  0, 52,
+  252,   0,  0, 52,
+  255,   0,  0, 52};
+
+  // Gradient palette "GPS_Fire_Blueish_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/gps/tn/GPS-Fire-Blueish.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 36 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( GPS_Fire_Blueish_gp ) {
+    0,   1,  0,  1,
+  115,   1,  4,  6,
+  165,   1, 20, 25,
+  221,  41, 21, 11,
+  242, 188, 22,  3,
+  248, 220, 56,  7,
+  252, 255,109, 14,
+  255, 255,154, 26};
+
+// Gradient palette "GPS_Fire_Life_Span_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/gps/tn/GPS-Fire-Life-Span.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 224 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( GPS_Fire_Life_Span_gp ) {
+    0,   1,  1,  1,
+    2,   1,  1,  1,
+    4,   1,  1,  1,
+    7,   1,  1,  1,
+    9,   1,  1,  1,
+   12,   1,  1,  1,
+   14,   1,  1,  1,
+   17,   1,  1,  1,
+   19,   1,  1,  1,
+   22,   1,  1,  1,
+   24,   1,  1,  1,
+   27,   1,  1,  1,
+   29,   1,  1,  1,
+   32,   1,  1,  1,
+   34,   1,  1,  1,
+   37,   1,  1,  1,
+   39,   1,  1,  1,
+   42,   1,  1,  1,
+   44,   1,  1,  1,
+   47,   1,  1,  1,
+   49,   1,  1,  1,
+   52,   1,  1,  1,
+   54,   1,  1,  1,
+   57,   1,  1,  1,
+   59,   1,  1,  1,
+   62,   1,  1,  1,
+   64,   1,  1,  1,
+   67,   1,  1,  1,
+   69,   1,  1,  1,
+   72,   1,  1,  1,
+   74,   1,  1,  1,
+   77,   1,  1,  1,
+   79,   1,  2,  1,
+   82,   1,  2,  1,
+   84,   2,  2,  1,
+   87,   2,  3,  1,
+   89,   2,  3,  2,
+   92,   2,  3,  2,
+   94,   3,  3,  2,
+   97,   3,  4,  2,
+   99,   4,  4,  2,
+  102,   4,  5,  2,
+  104,   4,  5,  3,
+  107,   5,  5,  3,
+  109,   6,  6,  3,
+  112,   6,  7,  4,
+  130,   7,  5,  2,
+  142,   9,  3,  2,
+  161,  19,  1,  1,
+  172,  35,  1,  1,
+  209,  67,  2,  1,
+  231, 112, 10,  0,
+  238, 175, 42,  1,
+  244, 255, 97,  1,
+  248, 255,157, 38,
+  255, 255,231,168};
+
+// Gradient palette "honeycomb_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/neota/othr/tn/honeycomb.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 60 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( honeycomb_gp ) {
+    0,   0,  0,  0,
+   31,   7,  1,  0,
+   63,  45,  4,  0,
+   97, 100, 16,  0,
+  131, 186, 36,  0,
+  149, 220, 56,  0,
+  167, 255, 81,  0,
+  181, 255,112,  1,
+  196, 255,151,  1,
+  204, 252,175,  1,
+  211, 249,201,  0,
+  227, 249,219, 20,
+  243, 252,239,115,
+  249, 252,246,178,
+  255, 255,255,255};
+
+// Gradient palette "apple_green_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/neota/flor/tn/apple-green.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 408 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( apple_green_gp ) {
+    0,   0,  0,  0,
+    2,   1,  1,  1,
+    4,   1,  1,  1,
+    7,   1,  1,  1,
+   10,   1,  1,  1,
+   12,   1,  1,  1,
+   15,   1,  1,  1,
+   17,   1,  1,  1,
+   20,   1,  1,  1,
+   22,   1,  1,  1,
+   25,   1,  1,  1,
+   27,   1,  1,  1,
+   30,   1,  2,  1,
+   32,   1,  2,  1,
+   35,   1,  3,  1,
+   37,   1,  3,  1,
+   40,   1,  4,  1,
+   42,   1,  5,  1,
+   45,   1,  5,  1,
+   47,   1,  6,  1,
+   50,   1,  7,  1,
+   52,   1,  8,  1,
+   55,   1,  8,  1,
+   57,   1,  9,  2,
+   60,   1, 10,  2,
+   62,   1, 11,  3,
+   65,   1, 12,  4,
+   67,   1, 13,  5,
+   70,   1, 14,  7,
+   72,   1, 16,  7,
+   75,   1, 17,  8,
+   77,   1, 18,  8,
+   80,   1, 19,  8,
+   82,   1, 21,  9,
+   85,   1, 22,  9,
+   87,   1, 24,  9,
+   30,   1, 58,  8,
+  133,   1, 60,  7,
+  135,   1, 63,  7,
+  138,   1, 66,  6,
+  141,   1, 69,  6,
+  143,   1, 71,  5,
+  146,   1, 74,  5,
+  148,   1, 78,  4,
+  151,   1, 80,  4,
+  153,   1, 84,  3,
+  156,   1, 86,  3,
+  158,   1, 90,  2,
+  161,   1, 92,  2,
+  163,   1, 96,  1,
+  166,   1, 99,  1,
+  168,   1,103,  1,
+  171,   1,105,  1,
+  173,   2,109,  1,
+  176,   2,112,  1,
+  179,   3,117,  1,
+  181,   3,119,  1,
+  184,   4,124,  1,
+  186,   5,128,  1,
+  189,   5,131,  1,
+  191,   6,136,  1,
+  194,   7,139,  1,
+  196,   9,144,  1,
+  199,  10,147,  1,
+  201,  11,152,  1,
+  204,  13,156,  1,
+  206,  15,161,  1,
+  209,  17,164,  1,
+  211,  19,169,  1,
+  214,  22,173,  1,
+  217,  24,178,  1,
+  219,  27,184,  1,
+  222,  31,187,  1,
+  224,  35,193,  1,
+  227,  39,197,  1,
+  229,  44,203,  1,
+  232,  49,207,  1,
+  234,  54,213,  1,
+  237,  60,217,  1,
+  239,  67,223,  1,
+  242,  74,227,  1,
+  244,  82,233,  1,
+  247,  91,237,  1,
+  249, 100,244,  1,
+  252, 110,248,  1,
+  255, 121,255,  0};
+
+  // Gradient palette "grey_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/neota/liht/tn/grey.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 12 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( grey_gp ) {
+    0,   0,  0,  0,
+    40,   1,  1,  1,
+   50,   10,  10,  10,
+  100,   2,  2,  2,
+  127,  30, 30, 30,
+  180,  4,4,4,
+  200,  50,50,50,
+  220, 127,127,127,
+  255, 255,255,255};
+
+// Gradient palette "trove_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/rc/tn/trove.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 84 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( trove_gp ) {
+    0,  12, 23, 11,
+   12,   8, 52, 27,
+   25,  32,142, 64,
+   38,  55, 68, 30,
+   51, 190,135, 45,
+   63, 201,175, 59,
+   76, 186, 80, 20,
+   89, 220, 79, 32,
+  101, 184, 33, 14,
+  114, 137, 16, 15,
+  127, 118, 20, 27,
+  140,  79, 16, 35,
+  153,  67,  8, 26,
+  165,  22,  9, 42,
+  178,  11,  3, 34,
+  191,  58, 31,109,
+  204, 186, 49, 83,
+  216, 182, 25, 55,
+  255, 190, 30, 60};
+
+  // Gradient palette "spellbound_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/rc/tn/spellbound.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 84 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( spellbound_gp ) {
+    0, 232,235, 40,
+   12, 157,248, 46,
+   25, 100,246, 51,
+   45,  53,250, 33,
+   63,  18,237, 53,
+   81,  11,211,162,
+   94,  18,147,214,
+  101,  43,124,237,
+  112,  49, 75,247,
+  127,  49, 75,247,
+  140,  92,107,247,
+  150, 120,127,250,
+  163, 130,138,252,
+  173, 144,131,252,
+  186, 148,112,252,
+  196, 144, 37,176,
+  211, 113, 18, 87,
+  221, 163, 33, 53,
+  255, 170, 40, 60};
+
+  // Gradient palette "parrot_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/rc/tn/parrot.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 20 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( parrot_gp ) {
+    0, 126,  0,  1,
+  114, 197,168, 16,
+  140, 197,168, 16,
+  216,   0,  2, 32,
+  255,   0,  2, 32};
+
+  // Gradient palette "scoutie_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/rc/tn/scoutie.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 16 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( scoutie_gp ) {
+    0, 255,156,  0,
+  127,   0,195, 18,
+  216,   1,  0, 39,
+  255,   1,  0, 39};
+
+// Gradient palette "feb_sunrise_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/pd/skies/tn/feb_sunrise.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 1024 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( feb_sunrise_gp ) {
+    0,  45, 10,  8,
+    10, 109, 27, 14,
+    20, 142, 36, 14,
+    30, 167, 41, 13,
+    40, 190, 47, 12,
+    45, 215, 54, 11,
+    50, 234, 60, 12,
+    70, 242, 69, 12,
+    80, 244, 71, 12,
+    90, 247, 75, 11,
+    95, 249, 95, 12,
+   100, 249,136, 15,
+   120, 249,154, 15,
+   130, 247,130, 12,
+   135, 244,108, 13,
+   140, 249,101, 16,
+   150, 247, 90, 16,
+   170, 249, 91, 19,
+   175, 240, 132, 101,
+   200, 193, 156, 164,
+   255, 188, 194, 212};
+
+DEFINE_GRADIENT_PALETTE( stratosphere_sunset_gp ) {
+    0,   1,  2,  9,
+    4,   1,  2,  9,
+    8,   1,  2, 10,
+   13,   1,  2, 11,
+   17,   1,  2, 11,
+   21,   1,  3, 13,
+   26,   1,  3, 15,
+   30,   1,  3, 16,
+   35,   1,  4, 18,
+   39,   1,  4, 19,
+   43,   1,  4, 21,
+   48,   1,  5, 23,
+   52,   1,  5, 27,
+   57,   1,  6, 32,
+   61,   1,  7, 38,
+   65,   1,  9, 49,
+   70,   1, 11, 61,
+   74,   1, 17, 80,
+   75,   2, 58, 132,
+   76,   2, 63, 144,
+   77,   5, 75, 161,
+   80,   8, 86, 178,
+   85,  25, 99, 198,
+   90,  41, 113, 218,
+   95,  56, 120, 227,
+  100,  72, 126, 236,
+  105,  77, 128, 238,
+  110,  83, 131, 241,
+  115,  88, 133, 240,
+  120,  94, 135, 239,
+  122,  103, 138, 236,
+  125,  113, 141, 232,
+  127,  119, 142, 222,
+  128,  125, 142, 213,
+  130,  150, 154, 203,
+  135,  176, 165, 194,
+  140,  207, 182, 191,
+  145,  237,198,188,
+  150,  225,183,170,
+  155,  213,167,152,
+  160,  199,140,113,
+  165,  185,113,73,
+  170,  209,125,59,
+  175,  234,137,44,
+  180,  242,166,53,
+  185,  250,196,62,
+  190,  242,183,54,
+  195,  234,171,45,
+  200,  236,145,32,
+  205,  237,120,19,
+  215,  242,116,17,
+  225,  247,113,14,
+  235,  208,86,11,
+  240,  168,59,8,
+  242,  120,38,8,
+  245,  72,16,7,
+  247,  54,11,6,
+  249,  35,7,5,
+  250,  33,6,4,
+  252,  31,5,4,
+  253,  29,4,4,
+  255,  27,4,5};
+
+  // Gradient palette "iris_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/pd/flowers/tn/iris.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 196 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( iris_gp ) {
+    0, 244,154,  0,
+    5, 244,159,  1,
+   10, 244,164,  1,
+   15, 227,161,  1,
+   21, 210,156,  1,
+   26, 186,146, 20,
+   31, 163,135, 68,
+   37, 150,127, 79,
+   42, 137,119, 91,
+   47, 130,115, 93,
+   53, 123,109, 98,
+   58, 120,105,100,
+   63, 115,103,102,
+   69, 115,104,102,
+   74, 115,104,102,
+   79,  95, 90, 96,
+   84,  78, 75, 91,
+   90,  54, 53, 75,
+   255,107 , 50, 127};
+
+// Gradient palette "lailah1_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/rc/tn/lailah1.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 48 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( lailah1_gp ) {
+    0,  13,  1,  4,
+   28,  34,  5, 19,
+   56,   1,  1,  3,
+   79,   1,  1, 75,
+  101,  31, 15,  4,
+  127,  80, 43,  7,
+  150,   1, 45, 27,
+  173,  64,252,205,
+  196,  20, 23,  2,
+  216, 234,252, 89,
+  237,   8,  2,  6,
+  255, 175, 70, 88};
+
+// Gradient palette "taste_the_rainbow_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/jjg/ccolo/lightningmccarl/tn/taste_the_rainbow.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 44 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( taste_the_rainbow_gp ) {
+    0,   1,  1,  1,
+  112,   1,  1,  1,
+  224,  32,  5,  2,
+  228, 165, 22, 10,
+  232, 206, 44, 14,
+  235, 249, 74, 19,
+  239, 244,109, 27,
+  243, 237,154, 37,
+  247, 130,144, 27,
+  251,  60,135, 18,
+  255,  60,135, 18};
+
+// Gradient palette "fib53_06_gp", originally from
+// http://soliton.vm.bytemark.co.uk/pub/cpt-city/gacruxa/fib53/tn/fib53-06.png.index.html
+// converted for FastLED with gammas (2.6, 2.2, 2.5)
+// Size: 56 bytes of program space.
+
+DEFINE_GRADIENT_PALETTE( fib53_06_gp ) {
+    0,  98,241,240,
+   38,  98,241,240,
+   39, 239,114,240,
+   75, 239,114,240,
+   76,  98,114,240,
+  114,  98,114,240,
+  115, 239,114,102,
+  151, 239,114,102,
+  152,  98,114,102,
+  176,  98,114,102,
+  177,   1,  1,  1,
+  191,   1,  1,  1,
+  193, 239,241,240,
+  255, 239,241,240};
 
 // Single array of defined cpt-city color palettes.
 // This will let us programmatically choose one based on
@@ -509,7 +1174,29 @@ const TProgmemRGBGradientPalettePtr gGradientPalettes[] = {
   BlacK_Blue_Magenta_White_gp,
   BlacK_Magenta_Red_gp,
   BlacK_Red_Magenta_Yellow_gp,
-  Blue_Cyan_Yellow_gp };
+  Blue_Cyan_Yellow_gp,
+  bhw2_whooo_gp,
+  vampirelips_gp,
+  Spectral_11_gp,
+  grand_old_flag_gp,
+  Winter_Night_gp,
+  Yellow_Black_gp,
+  Orange_White_Blue_gp,
+  GPS_Fire_Blueish_gp,
+  GPS_Fire_Life_Span_gp,
+  honeycomb_gp,
+  apple_green_gp,
+  grey_gp,
+  trove_gp,
+  spellbound_gp,
+  parrot_gp,
+  scoutie_gp,
+  feb_sunrise_gp,
+  stratosphere_sunset_gp,
+  iris_gp,
+  lailah1_gp,
+  taste_the_rainbow_gp,
+  fib53_06_gp};
 
 
 // Count of how many cpt-city gradients are defined:
